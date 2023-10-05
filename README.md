@@ -1,16 +1,11 @@
-# flutter1_namerapp
+its about learning flutter in first week 
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first
 
-A new Flutter project.
+what i learn? 
+-implement stateful widget 
+-padding 
+-sizedbox (for spacing like \n) 
+-elevatedbutton and elevatedbutton.icon 
+-refactoring
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
++++an so on+++
